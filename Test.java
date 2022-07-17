@@ -76,11 +76,11 @@ public class Test {
 
 
 
-        String xmlString1 = pathToXml("/Users/benjamin/Desktop/and_files");
+        String xmlString1 = pathToXml("/Users/mame fatou/Desktop/and_files");
         System.out.println(xmlString1);
 
          String maindirpath
-         = "/Users/benjamin/Desktop/and_files";
+         = "/Users/mame fatou/Desktop/and_files";
 
      File maindir = new File(maindirpath);
      if (maindir.exists() && maindir.isDirectory()) {
